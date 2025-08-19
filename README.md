@@ -61,6 +61,3 @@ python demo.py
 This code is for **education**. Only test on passwords/data you own or have permission to test. Misuse may be illegal.
 
 ---
-
-## 📝 License
-MIT
